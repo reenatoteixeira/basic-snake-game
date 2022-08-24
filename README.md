@@ -1,2 +1,2 @@
 # Basic Snake Game
- Basic Snake Game recreation using HTML, CSS and mostly JavaScript.
+ Recreation of a basic Snake Game using HTML, CSS and mostly JavaScript.
